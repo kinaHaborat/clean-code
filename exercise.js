@@ -38,7 +38,7 @@ function getSymbol(name) {
     return s;
   }
 
-  console.log("sumbol not found");
+  console.log("symbol not found");
   return "not found";
 }
 
@@ -68,5 +68,7 @@ function isValid(email, password) {
 
 //---------------
 //ex: 15 --------
+
+class OnlineShop {}
 
 //---------------
